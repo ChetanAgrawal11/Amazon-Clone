@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    border: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.navbar{
+    height: 60px;
+    background-color: #0F1111;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+
+}
+.logo{
+    margin: 1px;
+    margin-left: 8px ;
+    margin-right: 6px;
+    display: flex;
+    
+}
+.border{
+    border:2px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}
+
+
+.box-1{
+    margin-top: 10px;
+    margin-left: 20px;
+    color: white;
+    font-size: 12px;
+
+
+}
+
+.box-2{
+    margin-left: 10px;
+    align-items: center;
+    display: flex;
+    color:white;
+    font-size: 14px;
+}
+.search_logo{
+    color: white;
+}
+.search{
+    display: flex;
+    margin-left: 10px;
+    /* align-items: ; */
+}
+.all_box{
+    color:grey;
+    background-color:#E6E6E6 ;
+    height: 45px;
+    width: 39px;
+   
+
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.search_box{
+    width: 620px;
+    height: 39px;
+
+}
+
+.search_logo{
+    background-color: #FFC436;
+    width: 45px;
+    height: 43px;
+    margin-top: 1px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.country_border{
+    width: 73px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.En{  
+   
+    color: white;
+    background-color: #0F1111;
+    
+}
+
+.hello{
+    margin-top: 10px;
+    color: white;
+    font-size: 12px;
+
+}
+.sign{
+    font-size: 14px;
+    background-color: #0F1111;
+    color: white;
+    font-weight: 700;
+}
+.return{
+    color: white;
+}
+.Return{
+    margin-top: 10px;
+    font-size: 12px;
+}
+.order{
+    font-size: 12px;
+}
+
+.panel-all{
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #222f3d;
+    
+}
+.panel-select{color:white;}
+.panel-items p{
+    display: inline;
+    
+    color: white;
+    padding: 8px 9px;
+}
+.panel-items{
+    width: 90%;;
+}
+
+.next-page{
+    background-image: url(/images/hero_image.jpg);
+    height:400px;
+    background-size:cover;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+
+}
+.para{
+    background-color: white;
+    height: 40px;
+   width: 80%;
+   margin-bottom: 20px;
+
+}
+.para a{
+    color: blue;
+}
+
+.boxes{
+    background-color: #e2e7e6;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.heading2{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.box{
+    
+    height: 400px;
+    
+    width: 23%;
+    background-color: white;
+    margin-bottom: 20px;
+
+}
+.hhh{
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.name{
+    display: flex;
+    justify-content: space-evenly;
+}
+.boxes a{
+ 
+    margin-left: 40px;
+    color: blue;
+}
+.box5{
+    padding-top: 10px;
+ display: flex;
+ justify-content: center;
+}
+
+.sign{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.link{
+    color: white;
+}
